@@ -1,0 +1,14 @@
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\bin\Debug\net8.0\POO_aula2.exe
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\bin\Debug\net8.0\POO_aula2.deps.json
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\bin\Debug\net8.0\POO_aula2.runtimeconfig.json
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\bin\Debug\net8.0\POO_aula2.dll
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\bin\Debug\net8.0\POO_aula2.pdb
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.AssemblyInfoInputs.cache
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.AssemblyInfo.cs
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.csproj.CoreCompileInputs.cache
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.dll
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\refint\POO_aula2.dll
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.pdb
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\POO_aula2.genruntimeconfig.cache
+C:\Users\kaioh\source\repos\POO_aula2\POO_aula2\obj\Debug\net8.0\ref\POO_aula2.dll
